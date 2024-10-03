@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1>This ia Apple React APP</h1>
+    <h1>This is Apple React APP</h1>
     <p>THis  is my new commite</p>
     </>
   )
